@@ -9,11 +9,15 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
+<<<<<<< HEAD
         <activity android:name=".ViewPagerAdapter"></activity>
         <activity android:name=".ProfilFragment" />
         <activity android:name=".HomeFragment" />
         <activity android:name=".NewsFragment" />
         <activity android:name=".HomeActivity" />
+=======
+        <activity android:name=".HomeActivity"></activity>
+>>>>>>> 4a02e2ee1e2143fe8b159ee2322ed3b0453a87de
         <activity android:name=".SplashActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
